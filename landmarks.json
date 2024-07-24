@@ -10,9 +10,14 @@
         "maki_temaki": "temaki/obelisk"
     },
     {
-        "wikidata": "Q216344",
-        "note": "Arlington National Cemetary",
-        "make_temaki": "maki/cemetary"
+        "wikidata": "Q213559",
+        "note": "Lincoln Memorial",
+        "maki_temaki": "maki/museum"
+    },
+    {
+        "wikidata": "Q326183",
+        "note": "Jefferson Memorial",
+        "maki_temaki": "maki/museum"
     },
     {
         "wikidata": "Q3570",
@@ -23,21 +28,6 @@
         "wikidata": "Q668710",
         "note": "National Cathedral",
         "maki_temaki": "maki/place-of-worship"
-    },
-    {
-        "wikidata": "Q676576",
-        "note": "National Airport",
-        "maki_temaki": "maki/airport"
-    },
-    {
-        "wikidata": "Q5336827",
-        "note": "Eden Center",
-        "maki_temaki": "maki/shop"
-    },
-    {
-        "wikidata": "Q18159001",
-        "note": "Union Market",
-        "maki_temaki": "maki/restaurant"
     },
     {
         "wikidata": "Q11343430",
@@ -59,6 +49,11 @@
         "wikidata": "Q1700358",
         "note": "Richmond Raceway",
         "maki_temaki": "temaki/racetrack_oval"
+    },
+    {
+        "wikidata": "Q5336827",
+        "note": "Eden Center",
+        "maki_temaki": "maki/shop"
     },
     {
         "wikidata": "Q4883643",
