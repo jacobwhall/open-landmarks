@@ -1,8 +1,48 @@
 [
     {
+        "wikidata": "Q12495",
+        "note": "Burj Khalifa",
+        "maki_temaki": "temaki/obelisk"
+    },
+    {
+        "wikidata": "Q37200",
+        "note": "Great Pyramid of Giza",
+        "maki_temaki": "maki/triangle"
+    },
+    {
+        "wikidata": "Q208358",
+        "note": "Pyramid of Khafre",
+        "maki_temaki": "maki/triangle"
+    },
+    {
+        "wikidata": "Q238623",
+        "note": "Pyramid of Menkaure",
+        "maki_temaki": "maki/triangle"
+    },
+    {
         "wikidata": "Q9202",
         "note": "Statue of Liberty",
         "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q243",
+        "note": "Eiffel Tower",
+        "maki_temaki": "maki/monument"
+    },
+    {
+        "wikidata": "Q151356",
+        "note": "Fernsehturm Berlin",
+        "maki_temaki": "temaki/tower"
+    },
+    {
+        "wikidata": "Q48435",
+        "note": "Sagrada Família",
+        "maki_temaki": "maki/place-of-woship"
+    },
+    {
+        "wikidata": "Q178114",
+        "note": "Washington Monument",
+        "maki_temaki": "temaki/obelisk"
     },
     {
         "wikidata": "Q54109",
@@ -10,15 +50,15 @@
         "maki_temaki": "temaki/capitol"
     },
     {
+        "wikidata": "Q10285",
+        "note": "Colosseum",
+        "maki_temaki": "maki/stadium"
+    },
+    {
         "wikidata": "Q1373778",
         "note": "Refers to Horseshoe Falls, the largest and most famous waterfall at Niagara Falls",
         "name": "Niagara Falls",
         "maki_temaki": "maki/waterfall"
-    },
-    {
-        "wikidata": "Q178114",
-        "note": "Washington Monument",
-        "maki_temaki": "temaki/obelisk"
     },
     {
         "wikidata": "Q35525",
