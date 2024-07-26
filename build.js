@@ -6,6 +6,7 @@ for (const inp of JSON.parse(fs.readFileSync("landmarks.json"))) {
   const resp = await fetch(
     `https://overpass-api.de/api/interpreter?data=[out:json];nwr[wikidata="${inp.wikidata}"]${inp.extra_qualifier || ""};out center;`,
   );
+  console.log(inp.wikidata);
   const { features: [feature] } = osmtogeojson(await resp.json());
   features.push({ ...feature, properties: { ...feature.properties, ...inp } });
 };
